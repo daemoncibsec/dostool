@@ -1,4 +1,4 @@
-# DosTool - Easy & Fast DOS attack tool
+# DOSTool - Easy & Fast DOS attack tool
 
 ## Overview
 
